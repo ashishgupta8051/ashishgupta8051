@@ -6,6 +6,9 @@
 <br></br>
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 - 🔭 Wroking:  I’m currently working on Sign3labs.
 - 💼 Specialty: Mobile Application Developer.
 - 🎓 Background: 24-year-old Computer Science Engineer.
@@ -42,8 +45,10 @@
   </a>
 </p>
 
-**My Github Stats**
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&count_private=true&show_icons=true&theme=radical" />
+**Most Used Languages & Github Stats** 👇
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishgupta8051&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashishgupta8051" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&show_icons=true&locale=en&theme=radical" alt="ashishgupta8051" /></p>
 
-**My Github Activity**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&" alt="ashish" /></p>
+
+**My Github Activity** 👇
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&theme=radical" alt="ashish" /></p>
