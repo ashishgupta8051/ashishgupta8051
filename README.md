@@ -1,10 +1,10 @@
 ### Hi there👋! I'm Ashish Gupta 😇
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishgupta" alt="ashish" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-_**About Me:**_ With over 3 years of experience as a mobile application developer, I'm skilled in Java, Kotlin, and Dart. I stay updated with the latest advancements in mobile development to offer modern solutions. I specialize in creating attractive interfaces and seamlessly integrating features like APIs, push notifications, payment gateways, maps, and social media across platforms. I'm also proficient in managing data storage efficiently. My passion lies in crafting top-notch apps that provide exceptional user experiences..
+<div style="margin-right: 0px;">
+    <em><strong>About Me:</strong></em> With over 3 years of experience as a Mobile Application Developer, I'm skilled in Java, Kotlin, and Dart. I stay updated with the latest advancements in mobile development to offer modern solutions. I specialize in creating attractive interfaces and seamlessly integrating features like APIs, push notifications, payment gateways, maps, and social media across platforms. I'm also proficient in managing data storage efficiently. My passion lies in crafting top-notch apps that provide exceptional user experiences.
+<br></br>
+</div>
 
 - 🎓 Background: 24-year-old Computer Science Engineer.
 - 🚀 Journey: A passionate #SelfTaught Developer.
@@ -40,9 +40,11 @@ _**About Me:**_ With over 3 years of experience as a mobile application develope
   </a>
 </p>
 
-**My github stats**
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&count_private=true&show_icons=true&theme=radical" />
+**My GitHub Stats and Activity** 👇
 
-**My Activity**
+<img src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&" alt="GitHub Activity" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&" alt="ashish" /></p>
+
+
+
+
