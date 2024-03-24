@@ -30,16 +30,15 @@
 **Connect with me** 👇
 
 <p float="left">
- <a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
-  </a>
-
-  <a href="https://twitter.com/ashish80511" title="Redirect to Twitter">
-    <img src="/assets/twitter.png" width="120" alt="Twitter" />
-  </a>
-  
   <a href="https://www.linkedin.com/in/ashishgupta8051/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
+  </a>
+
+ <a href="https://twitter.com/ashish80511" title="Redirect to Twitter">
+    <img src="/assets/twitter.png" width="120" alt="Twitter" />
+  </a>
+<a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
+    <img src="/assets/instagram.png" width="120" alt="Instagram" />
   </a>
 </p>
 
