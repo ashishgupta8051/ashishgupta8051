@@ -30,7 +30,7 @@
 **Connect with me** 👇
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/ashishgupta8051/" title="Redirect to LinkedIn">
+  <a href="https://www.linkedin.com/in/ashish-gupta-0128401a0/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
 
