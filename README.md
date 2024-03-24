@@ -42,7 +42,8 @@
 
 **My GitHub Stats and Activity** 👇
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&" alt="GitHub Activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="420" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&" alt="GitHub Activity" width="440" />
+
 
 
 
