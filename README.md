@@ -13,10 +13,10 @@
 - 🔭 Wroking:  I’m currently working at Sign3labs.
 - 💼 Specialty: Mobile Application Developer.
 - 🎓 Background: 24-year-old Computer Science Engineer.
-- 🌱 Learning: I’m currently Flutter & KMP.
+- 🌱 Learning: I’m currently learning Flutter & KMP.
 - 🚀 Journey: A passionate #SelfTaught Developer.
 - ❤️ Passion: I'm passionate about exploring innovative tech solutions & deeply enjoy playing and watching cricket.
-- 🏆 Achievement Oriented: Dedicated to delivering innovative & quality projects that surpass expectations.
+- 🏆 Achievement: Dedicated to delivering innovative & quality projects that surpass expectations.
 - 📫 How to reach me: **ashishgupta8051@gmail.com** 
 
 
