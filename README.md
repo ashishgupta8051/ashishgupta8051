@@ -7,7 +7,7 @@
 <br></br>
 </div>
 
-<img align="right" alt="Coding" width="400" height="290" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 Wroking:  I’m currently working at Sign3labs.
