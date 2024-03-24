@@ -1,4 +1,4 @@
-### Hi there👋! I'm Ashish Gupta 😇
+### Hello there👋! Ashish Gupta here 😇
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishgupta" alt="ashish" /> </p>
 
 <div style="margin-right: 0px;">
@@ -10,8 +10,9 @@
 - 🚀 Journey: A passionate #SelfTaught Developer.
 - 💼 Specialty: Mobile Application Developer.
 - ❤️ Passion: Keen on learning and exploring innovative solutions in tech.
+- 🏆 Achievement Oriented: Dedicated to delivering innovative & quality projects that surpass expectations.
 
-<br> </br>
+<br></br>
 **Languages and Tools** 👇
 
 <p align="left">
@@ -45,7 +46,3 @@
 
 **My Github Activity**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta8051&" alt="ashish" /></p>
-
-
-
-
