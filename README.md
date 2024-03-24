@@ -43,7 +43,7 @@
   </a>
 </p>
 
-**My github stats**
+**My Github Stats**
 <p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=ashishgupta8051&count_private=true&show_icons=true&theme=radical" />
 
 **My Github Activity**
