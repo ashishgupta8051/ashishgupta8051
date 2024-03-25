@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashishgupta" alt="ashish" /> </p>
 
+## 🙋‍♂️ About Me: 👇
 <div style="margin-right: 0px;">
-    <em><strong>About Me:</strong></em> With over 3 years of experience as a Mobile Application Developer, I'm skilled in Java, Kotlin, and Dart. I stay updated with the latest advancements in mobile development to offer modern solutions. I specialize in creating attractive interfaces and seamlessly integrating features like APIs, push notifications, payment gateways, maps, and social media across platforms. I'm also proficient in managing data storage efficiently. My passion lies in crafting top-notch apps that provide exceptional user experiences.
+    <em><strong></strong></em> With over 3 years of experience as a Mobile Application Developer, I'm skilled in Java, Kotlin, and Dart. I stay updated with the latest advancements in mobile development to offer modern solutions. I specialize in creating attractive interfaces and seamlessly integrating features like APIs, push notifications, payment gateways, maps, and social media across platforms. I'm also proficient in managing data storage efficiently. My passion lies in crafting top-notch apps that provide exceptional user experiences.
 <br></br>
 </div>
 
