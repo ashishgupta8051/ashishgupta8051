@@ -38,12 +38,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌐 Social: 👇
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/amajaying](https://www.linkedin.com/in/ashish-gupta-0128401a0/))    &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/amajaying](https://www.instagram.com/ashishgupta8051/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-gupta-0128401a0/)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/amajaying](https://twitter.com/ashish80511))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashishgupta8051/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%34FF00.svg?logo=portfolio&logoColor=white)]([https://your-portfolio-url.com](https://ashishgupta8051.github.io/portfolio/))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashish80511)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%34FF00.svg?logo=portfolio&logoColor=white)](https://ashishgupta8051.github.io/portfolio/)
 
 
 ## 📊 GitHub Stats: 👇
