@@ -43,15 +43,16 @@
   <a href="https://www.linkedin.com/in/ashish-gupta-0128401a0/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
   </a>
-&nbsp;
- <a href="https://twitter.com/ashish80511" title="Redirect to Twitter">
+    &nbsp;
+  <a href="https://twitter.com/ashish80511" title="Redirect to Twitter">
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
     &nbsp;
-<a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
+  <a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
     <img src="/assets/instagram.png" width="120" alt="Instagram" />
   </a>
-    <a href="https://ashishgupta8051.github.io/portfolio/" title="Redirect to Portfolio">
+    &nbsp;
+  <a href="https://ashishgupta8051.github.io/portfolio/" title="Redirect to Portfolio">
     <img src="/assets/portfolio.png" width="120" alt="Portfolio" />
   </a>
 </p>
