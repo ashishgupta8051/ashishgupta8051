@@ -51,8 +51,8 @@
 <a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
     <img src="/assets/instagram.png" width="120" alt="Instagram" />
   </a>
-    <a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
+    <a href="https://ashishgupta8051.github.io/portfolio/" title="Redirect to Instagram">
+    <img src="/assets/portfolio.png" width="120" alt="Portfolio" />
   </a>
 </p>
 
