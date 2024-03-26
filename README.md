@@ -38,24 +38,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌐 Social: 👇
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/amajaying](https://www.linkedin.com/in/ashish-gupta-0128401a0/))    &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/amajaying](https://www.instagram.com/ashishgupta8051/))
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/amajaying](https://twitter.com/ashish80511))
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%34FF00.svg?logo=portfolio&logoColor=white)]([https://your-portfolio-url.com](https://ashishgupta8051.github.io/portfolio/))
 
-<p float="left">
-  <a href="https://www.linkedin.com/in/ashish-gupta-0128401a0/" title="Redirect to LinkedIn">
-    <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
-  </a>
-    &nbsp;
-  <a href="https://twitter.com/ashish80511" title="Redirect to Twitter">
-    <img src="/assets/twitter.png" width="120" alt="Twitter" />
-  </a>
-    &nbsp;
-  <a href="https://www.instagram.com/ashishgupta8051/" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
-  </a>
-    &nbsp;
-  <a href="https://ashishgupta8051.github.io/portfolio/" title="Redirect to Portfolio">
-    <img src="/assets/portfolio.png" width="120" alt="Portfolio" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats: 👇
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishgupta8051&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashishgupta8051" /></p>
