@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
+ 
 - 🔭 Wroking:  I’m currently working at Sign3labs.
 - 💼 Specialty: Mobile Application Developer.
 - 🎓 Background: 24-year-old Computer Science Engineer.
