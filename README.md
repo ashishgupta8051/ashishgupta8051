@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">A passionate Mobile Application Developer from India</h3>
+<h3 align="center">A passionate Mobile Application Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashishgupta" alt="ashish" /> </p>
 
 ## 🙋‍♂️ About Me: 👇
