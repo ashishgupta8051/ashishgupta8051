@@ -43,7 +43,7 @@
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashish80511)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%34FF00.svg?logo=portfolio&logoColor=white)]([https://ashishgupta8051.github.io/portfolio](https://codebyashishgupta.netlify.app/)/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%34FF00.svg?logo=portfolio&logoColor=white)](https://codebyashishgupta.netlify.app/)
 
 
 ## 📊 GitHub Stats: 👇
