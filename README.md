@@ -12,7 +12,7 @@
 
 - 🔭 Wroking:  I’m currently working at Sign3labs.
 - 💼 Specialty: Mobile Application Developer.
-- 🎓 Background: 24-year-old Computer Science Engineer.
+- 🎓 Background: 26-year-old Computer Science Engineer.
 - 🌱 Learning: I’m currently learning Flutter & KMP.
 - 🚀 Journey: A passionate #SelfTaught Developer.
 - ❤️ Passion: I'm passionate about exploring innovative tech solutions & deeply enjoy playing and watching cricket.
